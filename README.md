@@ -30,9 +30,7 @@ Company wants to automate the medical expenses process (real time) based on cust
 
 - **Model Improvement** - Transformation is done on expenses column and model created with transformation feature. Cross validation score is calculated. 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/kaggle-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kaggle.com/hariprabu)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprabu741/)
+
 
 
   
