@@ -12,20 +12,6 @@ Company wants to automate the medical expenses process (real time) based on cust
 
 
   
-## Steps followed for this project
-
-- Importing packages
-- Loading Dataset
-- Univariate analysis
-- Bivariate Analysis
-- Multivariate Analysis
-- Feature Engineering
-- Data Preprocessing
-- Machine Learning Models
-- Model Improvement
-
-
-  
 ## Project Description
 
 - Required packages are imported. From kaggle dataset is readed. 
